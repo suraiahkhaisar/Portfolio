@@ -8,7 +8,8 @@ I built this portfolio using **React.js** as a way to showcase my work, skills, 
 
 - **About Me** – A quick intro to who I am and what I do  
 - **Projects** – A list of the projects I’ve built or worked on, with links and short descriptions  
-- **Skills & Tools** – The technologies I use and am comfortable with  
+- **Skills & Tools** – The technologies I use and am comfortable with
+- **Certification**-This includes the certifications I earned
 - **Contact Section** – Social links or a way to reach out  
 
 ---
